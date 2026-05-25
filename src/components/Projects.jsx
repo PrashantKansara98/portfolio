@@ -26,7 +26,7 @@ const projects = [
       { name: "Tailwind", icon: <SiTailwindcss color="#38BDF8" /> },
       { name: "Vite", icon: <SiVite color="#646CFF" /> },
     ],
-    live: null,
+    live: "https://dubai-mall-deck-khaki.vercel.app/",
     github: "https://github.com/PrashantKansara98",
     gradient: "from-orange-500 to-pink-500",
   },
