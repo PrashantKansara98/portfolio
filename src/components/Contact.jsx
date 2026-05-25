@@ -68,7 +68,7 @@ function Contact() {
           initial={{ opacity: 0 }}
           whileInView={{ opacity: 1 }}
           transition={{ duration: 1 }}
-          href="mailto:prashant.kansara98@gmail.com"
+          href="https://mail.google.com/mail/?view=cm&to=prashant.kansara98@gmail.com"
           className="px-10 py-4 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full text-white font-semibold text-lg hover:opacity-90 transition"
         >
           Say Hello
