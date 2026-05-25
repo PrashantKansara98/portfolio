@@ -34,7 +34,9 @@ function Contact() {
           className="flex flex-col gap-4 mb-12"
         >
           <a
-            href="mailto:prashant.kansara98@gmail.com"
+            href="https://mail.google.com/mail/u/0/?to=prashant.kansara98@gmail.com%22&fs=1&tf=cm"
+            target="_blank"
+            rel="noreferrer"
             className="flex items-center justify-center gap-3 bg-white/5 border border-white/10 rounded-2xl p-5 hover:border-purple-500 transition text-gray-300 hover:text-white"
           >
             <FaEnvelope size={20} color="#ec4899" />
